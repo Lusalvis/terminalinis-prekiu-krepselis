@@ -1,5 +1,5 @@
-import { shoppingList } from './js/shoppingList.js';
-import { productDetails } from './js/productDetails.js';
+import { shoppingList } from './shopping-cart/js/shoppingList.js';
+import { productDetails } from './shopping-cart/js/productDetails.js';
 
 /*
 --------------------------------------------------------
